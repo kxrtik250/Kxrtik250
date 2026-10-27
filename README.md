@@ -1,43 +1,34 @@
 # Hi, I'm Karthik Sriram 👋
 
-### Computer Science Engineering Student | Software Development | AI Engineering
+### Computer Science Engineering Student | Software Developer
 
-I'm a Computer Science and Engineering student at Sathyabama Institute of Science and Technology, graduating in 2027. I enjoy building practical software solutions, exploring AI engineering, and developing full-stack applications.
+I'm a CSE student at Sathyabama Institute of Science and Technology, graduating in 2027. I build software projects involving backend development, web applications, and AI engineering.
 
-- 🎓 B.E. Computer Science and Engineering — Sathyabama University
-- 💻 Interests: Software Engineering, Backend Development, AI Engineering
-- 🌱 Currently working on: EcoPredict AI and Karthik AI
-- 🛠️ Focus: Building reliable, well-documented, real-world projects
-- 🔗 Portfolio: [Visit my portfolio](https://kxrtik250.github.io/karthik-portfolio/)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/skarthiksriram/)
-
-## Technical Skills
-
-**Languages:** Python, Java, C, C++, JavaScript, SQL
-
-**Web Development:** HTML, CSS, JavaScript, Django
-
-**Tools:** Git, GitHub, VS Code, Linux
-
-**Areas of Interest:** Backend Engineering, AI Systems, Full-Stack Development
+- 🎓 B.E. Computer Science and Engineering — 2027
+- 💻 Languages: Python, Java, C, C++, JavaScript, SQL
+- 🛠️ Tools: Git, GitHub, VS Code, Linux
+- 🌱 Current focus: Backend development and software engineering
+- 🔗 [LinkedIn](https://www.linkedin.com/in/skarthiksriram/)
+- 💻 [My repositories](https://github.com/kxrtik250?tab=repositories)
 
 ## Featured Projects
 
 ### EcoPredict AI
-Spatio-temporal graph neural network pipeline for regional carbon-intensity forecasting. Includes data processing, graph construction, model evaluation, and benchmarking.
+Spatio-temporal graph neural network pipeline for regional carbon-intensity forecasting.
 
 ### SmartClassroomAR
-A Unity-based 3D smart-classroom visualization and indoor-navigation project.
+Unity-based 3D smart-classroom visualization and indoor navigation.
 
 ### Student Result Portal
-A Django-based academic result-management portal with results management and Excel upload support.
+Django-based student result management system with Excel upload support.
 
 ### VeriSight
-An OCR and document-verification platform focused on document data extraction and validation.
+OCR-based document extraction and verification platform.
 
-## Connect With Me
+## Technologies
 
-- LinkedIn: https://www.linkedin.com/in/skarthiksriram/
-- GitHub: https://github.com/kxrtik250
+`Python` `Java` `C++` `JavaScript` `SQL` `Django` `Git` `GitHub` `Unity`
 
-*Always learning, building, and improving.*
+## Connect
+
+[GitHub](https://github.com/kxrtik250) · [LinkedIn](https://www.linkedin.com/in/skarthiksriram/)
